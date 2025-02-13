@@ -1,8 +1,10 @@
 Project Title & Introduction:
+
 Financial Fraud Detection
 "This project uses machine learning techniques for financial fraud detection. It leverages a comprehensive Kaggle dataset of anonymized financial transactions, customer profiles, and fraudulent patterns to train and evaluate predictive models."
 
 Dataset Description & Source:
+
 Fraud Detection Dataset
 🔒 Dataset Description
 The Financial Fraud Detection Dataset contains data related to financial transactions and fraudulent patterns. It is designed for the purpose of training and evaluating machine learning models for fraud detection.
